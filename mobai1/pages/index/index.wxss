@@ -1,0 +1,40 @@
+/* pages/index/index.wxss */
+.map{
+  width: 100%;
+}
+.ad{
+  width:90%;
+  height: 66rpx;
+  margin:20rpx auto 0;
+  background:#fff;
+  text-align: center;
+  border:1px solid red;
+}
+
+.scan{
+  width:90%;
+   height: 88rpx;
+   color:#fff;
+   line-height: 88rpx;
+  background:#000;
+  text-align: center;
+  position: fixed;bottom:40rpx;left:5%;
+  border-radius: 8px;
+}
+
+.mylocation{
+  width: 128rpx;
+  height: 128rpx;
+  position: fixed;right:5%;bottom:200rpx;
+}
+
+
+
+
+
+
+
+
+
+
+

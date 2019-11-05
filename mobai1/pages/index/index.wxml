@@ -1,0 +1,10 @@
+<!--pages/index/index.wxml-->
+<map class="map" style="height:{{wh}}px;" longitude="{{longitude}}" latitude="{{latitude}}" show-location>
+  <cover-view class="ad">买单车套餐  骑行更划算</cover-view>
+  <cover-view class="scan" bindtap="scan">扫码用车</cover-view>
+  <cover-image class="mylocation" src="../img/position.png" bindtap="getMyLocation"></cover-image>
+</map>
+
+
+
+

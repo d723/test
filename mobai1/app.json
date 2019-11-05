@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "摩拜单车",
+    "navigationBarTextStyle": "black"
+  },
+  "permission": {
+    "scope.userLocation":{
+      "desc": "用于用户定位导航使用"
+    }
+     
+  },
+  "sitemapLocation": "sitemap.json"
+
+}
